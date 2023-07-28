@@ -2,6 +2,8 @@
 
 ## Intro
 
+<a href="https://student-handbook-bice.vercel.app/">Online Student Handbook!</a>
+
 Produced by the Hackstreet Boys:
 <ul>
     <li><a href="https://www.linkedin.com/in/dan-bennett-102a03149/">Dan Bennet</a></li>
