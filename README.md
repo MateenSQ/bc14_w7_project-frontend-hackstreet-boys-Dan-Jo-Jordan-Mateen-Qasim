@@ -13,7 +13,7 @@ Produced by the Hackstreet Boys:
 
 <br>
 
-7 weeks into <a href="https://www.schoolofcode.co.uk/">School of Code</a> - which for a lot of us was 7 weeks since we started coding - we were given our first project!
+6 weeks into <a href="https://www.schoolofcode.co.uk/">School of Code</a> - which for a lot of us was 6 weeks since we started coding - and starting the 7th we were given our first project!
 
 Put into random teams, we were given a week to create a react app that would help solve issues faced by fellow bootcampers. We spent the week ideating, planning and coding.
 
