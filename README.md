@@ -22,7 +22,7 @@ We had lots of fun!
 ## Technology
 
 <ul>
-    <li>React</li>
+    <li>React.js</li>
     <ul>
         <li>Material UI</li>
     </ul>
