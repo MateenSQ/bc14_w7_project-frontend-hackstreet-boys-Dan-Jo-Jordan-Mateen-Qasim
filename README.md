@@ -2,7 +2,7 @@
 
 ## Intro
 
-Click for the app: <a href="https://student-handbook-bice.vercel.app/">Online Student Handbook!</a>
+Click for the app: <a href="https://student-handbook-bice.vercel.app/" target="_blank">Online Student Handbook!</a>
 
 Produced by the Hackstreet Boys:
 <ul>
