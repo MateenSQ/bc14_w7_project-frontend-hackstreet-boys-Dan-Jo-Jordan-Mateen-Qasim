@@ -2,6 +2,8 @@
 
 ## Intro
 
+Click for the app: <a href="https://student-handbook-bice.vercel.app/" target="_blank">Online Student Handbook!</a>
+
 Produced by the Hackstreet Boys:
 <ul>
     <li><a href="https://www.linkedin.com/in/dan-bennett-102a03149/">Dan Bennet</a></li>
@@ -13,16 +15,16 @@ Produced by the Hackstreet Boys:
 
 <br>
 
-7 weeks into <a href="https://www.schoolofcode.co.uk/">School of Code</a> - which for a lot of us was 7 weeks since we started coding - we were given our first project!
+6 weeks into <a href="https://www.schoolofcode.co.uk/">School of Code</a> - which for a lot of us was 6 weeks since we started coding - and starting the 7th we were given our first project!
 
-Put into random teams, we were given a week to create a react app that would help solve issues faced by fellow bootcampers. We spent the week ideating, planning and coding.
+Put into random teams, we were given a <em>week</em> to create a react app that would help solve issues faced by fellow bootcampers. We spent the week ideating, planning and coding.
 
 We had lots of fun!
 
 ## Technology
 
 <ul>
-    <li>React</li>
+    <li>React.js</li>
     <ul>
         <li>Material UI</li>
     </ul>
