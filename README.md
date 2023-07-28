@@ -51,6 +51,37 @@ The app was intended:
 
 Students could then refer back to the handbook to see their GitHub classroom projects they had worked on throughout the week - along with any videos and docs the coaches had given, on demand, rather than trawling through conversations in Slack.
 
+## Design
+
+### Lo-Fi
+
+Have a peek at our lo-fi designs:
+
+<img src="./images/lofi/LoFiLand.PNG">
+
+<br>
+
+Our landing page, it would load into one of a few main pages we had in mind, this design was the most accurate to what we actually created:
+
+<img src="./images/lofi/mainPageOpt2.PNG">
+
+Minimal details, finding mutual understanding in what we wanted the app to look like in its bare bones.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEQ7Jkq9EwWZV47oWAVxg0F%2FWireframe%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DODhFEka1IpO9YLnq-1" allowfullscreen></iframe>
+
+### Hi-Fi
+
+<img src="./images/hifi/landing.PNG">
+
+<br>
+
+Again the landing page, loading into the main page, demonstrating how each feature we added may look like
+
+<img src="./images/hifi/timeline.PNG">
+<img src="./images/hifi/timeline1.PNG">
+<img src="./images/hifi/timeline2.PNG">
+<img src="./images/hifi/timeline3.PNG">
+
 ## Future Goals
 
 We never agreed to pick up the project again after presenting it to industry professionals but there would be much more to do which I may try!
