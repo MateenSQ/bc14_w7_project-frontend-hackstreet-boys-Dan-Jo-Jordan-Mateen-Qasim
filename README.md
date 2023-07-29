@@ -109,3 +109,7 @@ We never agreed to pick up the project again after presenting it to industry pro
     </ul>
     <li>Readjust tables and timeline to avoid cluttered appearance and scale better for more weeks (currently displaying 4 weeks of 16).</li>
 </ul>
+
+Other than these main features we would like to see, we also had a list of quality of life changes we woudld love to add:
+
+<img src="./images/trello.PNG">
