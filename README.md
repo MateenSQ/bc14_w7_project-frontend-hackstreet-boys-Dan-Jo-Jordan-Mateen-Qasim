@@ -1,5 +1,16 @@
 # Online Student Handbook by Hackstreet Boys
 
+## Contents
+
+- [Intro](#intro)
+- [Technology](#technology)
+- [About](#about)
+- [Use](#use)
+- [Wireframes](#wireframes)
+    - [Lo-Fi](#lo-fi)
+    - [Hi-Fi](#hi-fi)
+- [Future Goals](#future-goals)
+    
 ## Intro
 
 Produced by the Hackstreet Boys:
@@ -22,7 +33,7 @@ We had lots of fun!
 ## Technology
 
 <ul>
-    <li>React</li>
+    <li>React.js</li>
     <ul>
         <li>Material UI</li>
     </ul>
@@ -51,26 +62,28 @@ The app was intended:
 
 Students could then refer back to the handbook to see their GitHub classroom projects they had worked on throughout the week - along with any videos and docs the coaches had given, on demand, rather than trawling through conversations in Slack.
 
-## Design
+## Wireframes
 
 ### Lo-Fi
 
-Have a peek at our lo-fi designs:
+Our landing page, it would load into one of a few main pages we had in mind, this design was the most accurate to what we actually created:
 
 <img src="./images/lofi/LoFiLand.PNG">
 
 <br>
 
-Our landing page, it would load into one of a few main pages we had in mind, this design was the most accurate to what we actually created:
+Minimal details, finding mutual understanding between the group in what we wanted the app to look like in its bare bones.
 
 <img src="./images/lofi/mainPageOpt2.PNG">
 
-Minimal details, finding mutual understanding in what we wanted the app to look like in its bare bones.
+<br>
+
+Have a browse <a href="https://www.figma.com/file/EQ7Jkq9EwWZV47oWAVxg0F/Wireframe?type=design&node-id=0%3A1&mode=design&t=chzzZ95fpcVxxsZC-1">here</a>.
 
 
 ### Hi-Fi
 
-Our Hi-Fis aimed to 
+Our Hi-Fis enabled us to define the finished product - in retrospective, with a Hi-Fi we could've developed a useable prototype to give to perspective clients to gain user research on our model. Without prior experience in prototyping or the time (a week really isn't long!) it wasn't a viable option.
 
 
 <img src="./images/hifi/landing.PNG">
