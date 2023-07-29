@@ -70,16 +70,18 @@ Minimal details, finding mutual understanding in what we wanted the app to look 
 
 ### Hi-Fi
 
+Our Hi-Fis aimed to 
+
+
 <img src="./images/hifi/landing.PNG">
 
 <br>
 
-Again the landing page, loading into the main page, demonstrating how each feature we added may look like
+Again the landing page, loading into the main page, demonstrating how each feature we added may look like. Here is just one:
 
-<img src="./images/hifi/timeline.PNG">
+
 <img src="./images/hifi/timeline1.PNG">
-<img src="./images/hifi/timeline2.PNG">
-<img src="./images/hifi/timeline3.PNG">
+
 
 ## Future Goals
 
