@@ -3,6 +3,7 @@
 ## Contents
 
 - [Intro](#intro)
+- [Website](#website)
 - [Technology](#technology)
 - [About](#about)
 - [Use](#use)
@@ -29,6 +30,10 @@ Produced by the Hackstreet Boys:
 Put into random teams, we were given a week to create a react app that would help solve issues faced by fellow bootcampers. We spent the week ideating, planning and coding.
 
 We had lots of fun!
+
+## Website
+
+You can find the website <a href="https://student-handbook-bice.vercel.app/">here</a>!
 
 ## Technology
 
