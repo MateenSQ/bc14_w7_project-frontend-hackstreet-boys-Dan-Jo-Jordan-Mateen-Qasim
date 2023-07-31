@@ -57,7 +57,7 @@ The app is designed to centralize all links in an online handbook, chronological
 
 ## Use
 
-Upon entering the main page, you will find the weeks via a <a href="https://mui.com/material-ui/react-stepper/#horizontal-stepper">'horizontal stepper'</a> and the days organised by <a href="https://mui.com/material-ui/react-table/#collapsible-table">'collapsible tables'.</a> Lots of the data is placeholder. Unfortunately, there is no current way to edit the fields.
+Upon entering the main page, you will find the weeks via a '<a href="https://mui.com/material-ui/react-stepper/#horizontal-stepper">horizontal stepper</a>' and the days organised by '<a href="https://mui.com/material-ui/react-table/#collapsible-table">collapsible tables</a>'. Lots of the data is placeholder. Unfortunately, there is no current way to edit the fields.
 
 The app was intended:
 
