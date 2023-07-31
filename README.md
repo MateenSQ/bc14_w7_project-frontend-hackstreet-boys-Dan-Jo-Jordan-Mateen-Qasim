@@ -118,3 +118,15 @@ We never agreed to pick up the project again after presenting it to industry pro
 Other than these main features we would like to see, we also had a list of quality of life changes we woudld love to add:
 
 <img src="./images/trello.PNG">
+
+## Retrospectives
+
+It was a fantastic experience having worked on not only our first technical project but also our first group project!
+
+We had a team retrospective, everyone would write down a couple things we thought we did well and what we could've changed. Then we went through each point and discussing them.
+
+We left the retrospectives ready to give even more to the next project.
+
+Have a browse <a href="https://www.figma.com/file/q6HjZ4m4quxwPBUa0LumlP/Week7TeamRetro?type=whiteboard&node-id=0%3A1&t=5YcDuw8s3xI1UvY2-1">here</a>
+
+<img src="./images/retro.PNG">
