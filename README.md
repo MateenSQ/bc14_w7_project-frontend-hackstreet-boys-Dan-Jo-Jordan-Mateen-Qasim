@@ -11,6 +11,7 @@
     - [Lo-Fi](#lo-fi)
     - [Hi-Fi](#hi-fi)
 - [Future Goals](#future-goals)
+- [Retrospectives](#retrospectives)
     
 ## Intro
 
@@ -127,6 +128,6 @@ We had a team retrospective, everyone would write down a couple things we though
 
 We left the retrospectives ready to give even more to the next project.
 
-Have a browse <a href="https://www.figma.com/file/q6HjZ4m4quxwPBUa0LumlP/Week7TeamRetro?type=whiteboard&node-id=0%3A1&t=5YcDuw8s3xI1UvY2-1">here</a>
+Have a browse <a href="https://www.figma.com/file/q6HjZ4m4quxwPBUa0LumlP/Week7TeamRetro?type=whiteboard&node-id=0%3A1&t=5YcDuw8s3xI1UvY2-1">here</a>.
 
 <img src="./images/retro.PNG">
